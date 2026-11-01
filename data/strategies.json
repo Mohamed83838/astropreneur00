@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ST1",
+    "eventId": "EV1",
+    "generatedAt": "2026-10-30T09:12:00Z",
+    "summary": "Staff the Bizerte Port opening by moving two experienced people from Tunis and Sousse, backfilling their duties, training two local-to-be hires' future supervisors, and recruiting the rest.",
+    "risks": [
+      "Tunis Lac loses its marketing lead during the Q4 peak.",
+      "Only two internal candidates have store-opening experience."
+    ],
+    "actions": [
+      {
+        "id": "A1",
+        "type": "relocate",
+        "phase": "immediate",
+        "priority": "high",
+        "employeeId": "E7",
+        "title": "Move Rania Kacem to Bizerte Port as sales supervisor",
+        "details": "Relocate for 6 months, then review. Housing allowance applies.",
+        "fromStoreId": "S2",
+        "toStoreId": "S5",
+        "startDate": "2026-11-10",
+        "endDate": "2027-05-10",
+        "training": null,
+        "rationale": "8 years of experience and team leadership, workload 72%, open to moving.",
+        "dependsOn": []
+      },
+      {
+        "id": "A2",
+        "type": "assign_task",
+        "phase": "immediate",
+        "priority": "high",
+        "employeeId": "E5",
+        "title": "Lead the Bizerte launch campaign",
+        "details": "Keep base in Tunis, travel to Bizerte weekly until opening.",
+        "fromStoreId": null,
+        "toStoreId": "S5",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-30",
+        "training": null,
+        "rationale": "Already owns the campaign and has spare capacity (55%).",
+        "dependsOn": []
+      },
+      {
+        "id": "A3",
+        "type": "assign_task",
+        "phase": "short_term",
+        "priority": "medium",
+        "employeeId": "E4",
+        "title": "Cover Sousse sales targets during Rania's move",
+        "details": "Take over weekly target reporting for Sousse Centre.",
+        "fromStoreId": null,
+        "toStoreId": "S2",
+        "startDate": "2026-11-10",
+        "endDate": "2027-05-10",
+        "training": null,
+        "rationale": "Data skills fit the reporting work; workload stays under 85%.",
+        "dependsOn": [
+          "A1"
+        ]
+      },
+      {
+        "id": "A4",
+        "type": "train",
+        "phase": "short_term",
+        "priority": "medium",
+        "employeeId": "E2",
+        "title": "Train Karim Jlassi in team leadership",
+        "details": "Prepare him to act as Sousse sales supervisor.",
+        "fromStoreId": null,
+        "toStoreId": "S2",
+        "startDate": "2026-11-12",
+        "endDate": "2026-12-12",
+        "training": {
+          "topic": "Team leadership",
+          "durationDays": 10
+        },
+        "rationale": "Strong sales skills and 3 years of experience; builds a successor for Rania.",
+        "dependsOn": [
+          "A1"
+        ]
+      },
+      {
+        "id": "A5",
+        "type": "hire",
+        "phase": "short_term",
+        "priority": "high",
+        "employeeId": null,
+        "title": "Recruit 8 sales associates and 2 cashiers",
+        "details": "Local hiring in Bizerte, start 2 weeks before opening.",
+        "fromStoreId": null,
+        "toStoreId": "S5",
+        "startDate": "2026-11-05",
+        "endDate": null,
+        "training": null,
+        "rationale": "No internal staff match the volume needed.",
+        "dependsOn": []
+      },
+      {
+        "id": "A6",
+        "type": "promote",
+        "phase": "long_term",
+        "priority": "low",
+        "employeeId": "E10",
+        "title": "Consider Walid Chebbi for regional coordinator",
+        "details": "Review after the POS upgrade and the Bizerte launch are complete.",
+        "fromStoreId": "S4",
+        "toStoreId": null,
+        "startDate": "2027-03-01",
+        "endDate": null,
+        "training": null,
+        "rationale": "Delivered the POS rollout and manages projects well.",
+        "dependsOn": [
+          "A5"
+        ]
+      }
+    ]
+  }
+]

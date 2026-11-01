@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P1",
+    "name": "Nordic Home Supply",
+    "kind": "Supplier",
+    "country": "Sweden",
+    "since": 2016,
+    "status": "Active"
+  },
+  {
+    "id": "P2",
+    "name": "Sahel Textiles",
+    "kind": "Supplier",
+    "country": "Tunisia",
+    "since": 2012,
+    "status": "Active"
+  },
+  {
+    "id": "P3",
+    "name": "MedFreight",
+    "kind": "Logistics",
+    "country": "Italy",
+    "since": 2018,
+    "status": "Active"
+  },
+  {
+    "id": "P4",
+    "name": "PayLink",
+    "kind": "Payments",
+    "country": "Tunisia",
+    "since": 2020,
+    "status": "Under review"
+  },
+  {
+    "id": "P5",
+    "name": "Casa Ceramics",
+    "kind": "Supplier",
+    "country": "Morocco",
+    "since": 2021,
+    "status": "Active"
+  }
+]

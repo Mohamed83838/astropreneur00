@@ -1,0 +1,47 @@
+[
+  {
+    "id": "S1",
+    "name": "Tunis Lac",
+    "city": "Tunis",
+    "type": "Flagship",
+    "status": "Open",
+    "headcount": 42,
+    "monthlyRevenue": 412000
+  },
+  {
+    "id": "S2",
+    "name": "Sousse Centre",
+    "city": "Sousse",
+    "type": "Standard",
+    "status": "Open",
+    "headcount": 24,
+    "monthlyRevenue": 198000
+  },
+  {
+    "id": "S3",
+    "name": "Sfax Medina",
+    "city": "Sfax",
+    "type": "Standard",
+    "status": "Open",
+    "headcount": 21,
+    "monthlyRevenue": 176000
+  },
+  {
+    "id": "S4",
+    "name": "Djerba Outlet",
+    "city": "Djerba",
+    "type": "Outlet",
+    "status": "Open",
+    "headcount": 11,
+    "monthlyRevenue": 64000
+  },
+  {
+    "id": "S5",
+    "name": "Bizerte Port",
+    "city": "Bizerte",
+    "type": "Standard",
+    "status": "Opening soon",
+    "headcount": 0,
+    "monthlyRevenue": 0
+  }
+]

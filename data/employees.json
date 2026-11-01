@@ -1,0 +1,166 @@
+[
+  {
+    "id": "E1",
+    "name": "Amira Ben Salah",
+    "role": "Store manager",
+    "storeId": "S1",
+    "yearsExperience": 9,
+    "skills": [
+      "Store operations",
+      "Team leadership"
+    ],
+    "tasks": [
+      "Q4 staffing plan",
+      "Flagship layout refresh"
+    ],
+    "workload": 80,
+    "openToMove": true
+  },
+  {
+    "id": "E2",
+    "name": "Karim Jlassi",
+    "role": "Sales associate",
+    "storeId": "S2",
+    "yearsExperience": 3,
+    "skills": [
+      "Sales",
+      "Customer service"
+    ],
+    "tasks": [
+      "Furniture promo floor"
+    ],
+    "workload": 65,
+    "openToMove": true
+  },
+  {
+    "id": "E3",
+    "name": "Nour Trabelsi",
+    "role": "Logistics lead",
+    "storeId": "S3",
+    "yearsExperience": 7,
+    "skills": [
+      "Logistics",
+      "ERP"
+    ],
+    "tasks": [
+      "Supplier delivery audit",
+      "Stock count"
+    ],
+    "workload": 90,
+    "openToMove": false
+  },
+  {
+    "id": "E4",
+    "name": "Sami Gharbi",
+    "role": "Data analyst",
+    "storeId": "S1",
+    "yearsExperience": 5,
+    "skills": [
+      "Data analysis",
+      "Project management"
+    ],
+    "tasks": [
+      "Sales dashboard",
+      "Partner scorecards"
+    ],
+    "workload": 70,
+    "openToMove": true
+  },
+  {
+    "id": "E5",
+    "name": "Lina Mezghani",
+    "role": "Marketing specialist",
+    "storeId": "S1",
+    "yearsExperience": 4,
+    "skills": [
+      "Marketing",
+      "Languages"
+    ],
+    "tasks": [
+      "Bizerte launch campaign"
+    ],
+    "workload": 55,
+    "openToMove": true
+  },
+  {
+    "id": "E6",
+    "name": "Omar Hached",
+    "role": "Cashier",
+    "storeId": "S3",
+    "yearsExperience": 2,
+    "skills": [
+      "POS",
+      "Customer service"
+    ],
+    "tasks": [
+      "Front desk"
+    ],
+    "workload": 85,
+    "openToMove": false
+  },
+  {
+    "id": "E7",
+    "name": "Rania Kacem",
+    "role": "Sales supervisor",
+    "storeId": "S2",
+    "yearsExperience": 8,
+    "skills": [
+      "Sales",
+      "Team leadership"
+    ],
+    "tasks": [
+      "Team coaching",
+      "Weekly targets"
+    ],
+    "workload": 72,
+    "openToMove": true
+  },
+  {
+    "id": "E8",
+    "name": "Yassine Dridi",
+    "role": "Warehouse clerk",
+    "storeId": "S1",
+    "yearsExperience": 1,
+    "skills": [
+      "Logistics"
+    ],
+    "tasks": [
+      "Inbound receiving"
+    ],
+    "workload": 40,
+    "openToMove": true
+  },
+  {
+    "id": "E9",
+    "name": "Mariem Ayari",
+    "role": "Customer service agent",
+    "storeId": "S3",
+    "yearsExperience": 6,
+    "skills": [
+      "Customer service",
+      "Languages"
+    ],
+    "tasks": [
+      "Returns desk",
+      "Online chat"
+    ],
+    "workload": 50,
+    "openToMove": true
+  },
+  {
+    "id": "E10",
+    "name": "Walid Chebbi",
+    "role": "Project coordinator",
+    "storeId": "S4",
+    "yearsExperience": 5,
+    "skills": [
+      "Project management",
+      "POS"
+    ],
+    "tasks": [
+      "POS upgrade rollout"
+    ],
+    "workload": 78,
+    "openToMove": true
+  }
+]

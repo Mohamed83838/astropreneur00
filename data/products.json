@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "HM-1001",
+    "name": "Oak dining table",
+    "category": "Furniture",
+    "price": 1290,
+    "stock": 34,
+    "partnerId": "P1"
+  },
+  {
+    "sku": "HM-1002",
+    "name": "Linen sofa, 3 seats",
+    "category": "Furniture",
+    "price": 2150,
+    "stock": 12,
+    "partnerId": "P1"
+  },
+  {
+    "sku": "TX-2001",
+    "name": "Cotton bedding set",
+    "category": "Textiles",
+    "price": 189,
+    "stock": 220,
+    "partnerId": "P2"
+  },
+  {
+    "sku": "TX-2002",
+    "name": "Wool rug 200x300",
+    "category": "Textiles",
+    "price": 640,
+    "stock": 41,
+    "partnerId": "P2"
+  },
+  {
+    "sku": "CR-3001",
+    "name": "Hand-painted plate set",
+    "category": "Tableware",
+    "price": 120,
+    "stock": 160,
+    "partnerId": "P5"
+  },
+  {
+    "sku": "CR-3002",
+    "name": "Ceramic vase, large",
+    "category": "Decor",
+    "price": 95,
+    "stock": 88,
+    "partnerId": "P5"
+  },
+  {
+    "sku": "HM-1003",
+    "name": "Floor lamp, brass",
+    "category": "Lighting",
+    "price": 310,
+    "stock": 57,
+    "partnerId": "P1"
+  },
+  {
+    "sku": "TX-2003",
+    "name": "Curtain pair, linen",
+    "category": "Textiles",
+    "price": 145,
+    "stock": 133,
+    "partnerId": "P2"
+  }
+]

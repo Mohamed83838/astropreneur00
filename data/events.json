@@ -1,0 +1,23 @@
+[
+  {
+    "id": "EV1",
+    "type": "New store",
+    "title": "Bizerte Port opening",
+    "date": "2026-11-20",
+    "status": "New"
+  },
+  {
+    "id": "EV2",
+    "type": "Resignation",
+    "title": "Store manager, Sfax Medina",
+    "date": "2026-10-28",
+    "status": "Analysed"
+  },
+  {
+    "id": "EV3",
+    "type": "New technology",
+    "title": "POS upgrade across all stores",
+    "date": "2026-10-05",
+    "status": "Closed"
+  }
+]
